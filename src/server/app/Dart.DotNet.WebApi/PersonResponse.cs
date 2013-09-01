@@ -1,4 +1,4 @@
-namespace Dart.Seed.Api
+namespace Dart.DotNet.WebApi
 {
     public class PersonResponse
     {

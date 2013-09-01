@@ -1,6 +1,6 @@
 using ServiceStack.ServiceHost;
 
-namespace Dart.Seed.Api
+namespace Dart.DotNet.WebApi
 {
     [Route("/person/", "GET")]
     public class PersonRequest : IReturn<PersonResponse>

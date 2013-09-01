@@ -2,7 +2,7 @@ using Funq;
 using ServiceStack.ServiceInterface.Cors;
 using ServiceStack.WebHost.Endpoints;
 
-namespace Dart.Seed.Api
+namespace Dart.DotNet.WebApi
 {
     public class DartDotNetAppHostBase : AppHostBase
     {

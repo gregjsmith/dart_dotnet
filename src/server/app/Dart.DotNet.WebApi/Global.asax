@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="Dart.Seed.Api.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="Dart.DotNet.WebApi.Global" Language="C#" %>
